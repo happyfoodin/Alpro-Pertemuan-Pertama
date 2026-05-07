@@ -22,7 +22,7 @@ int main(){
     cin >> departemen;   // input departemen
 
     cout<<"masukkan jabatan:";
-    cin >> jabatan;      // input jabatan
+    cin >> jabatan;      
 
     cout<<"masukkan gaji anda:";
     cin >> gaji;         // input gaji
